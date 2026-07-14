@@ -95,11 +95,6 @@ GitHub Actions is configured to automatically build and run tests on every push 
 
 ---
 
-## 📹 Demo Video
-
-> *(Add your YouTube unlisted link here)*
-
----
 
 ## 📄 Academic Context
 
