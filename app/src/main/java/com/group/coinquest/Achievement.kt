@@ -1,0 +1,23 @@
+package com.group.coinquest
+
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity(tableName = "achievements")
+data class Achievement(
+
+    @PrimaryKey(autoGenerate = true)
+    val id: Int = 0,
+
+    val userId: Int,
+
+    val title: String,
+
+    val description: String,
+
+    val emoji: String,
+
+    val xpReward: Int,
+
+    val isUnlocked: Boolean = false
+)

@@ -1,0 +1,2 @@
+com.group.coinquest.test:style/WhiteBackgroundTheme = 0x7f010001
+com.group.coinquest.test:style/WhiteBackgroundDialogTheme = 0x7f010000

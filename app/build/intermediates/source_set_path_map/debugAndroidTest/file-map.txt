@@ -1,0 +1,6 @@
+com.group.coinquest.test.app-annotation-experimental-1.3.0-0 C:\Users\ramat\.gradle\caches\transforms-4\2f6e73b6b93c4725ea5b865f10413a0c\transformed\annotation-experimental-1.3.0\res
+com.group.coinquest.test.app-core-1.5.0-1 C:\Users\ramat\.gradle\caches\transforms-4\dc18cb32a824d56923123177a89a0a4b\transformed\core-1.5.0\res
+com.group.coinquest.test.app-androidTest-2 C:\Users\ramat\AndroidStudioProjects\coinquest_final\app\build\generated\res\resValues\androidTest\debug
+com.group.coinquest.test.app-mergeDebugAndroidTestResources-3 C:\Users\ramat\AndroidStudioProjects\coinquest_final\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.group.coinquest.test.app-mergeDebugAndroidTestResources-4 C:\Users\ramat\AndroidStudioProjects\coinquest_final\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.group.coinquest.test.app-merged_res-5 C:\Users\ramat\AndroidStudioProjects\coinquest_final\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.group.coinquest.app-mergeDebugResources-37:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ramat\\.gradle\\caches\\transforms-4\\1c34e17c9ab2bed87b270bcaa7d800cc\\transformed\\material-1.11.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
